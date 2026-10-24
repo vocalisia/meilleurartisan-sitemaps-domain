@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sitemaps.meilleurartisan.ch/sitemap.xml
